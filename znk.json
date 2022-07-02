@@ -2,7 +2,8 @@
 
 {
 "spider":"https://loveznk.github.io/123/0701apple.jar",
-"lives":[{"group":"redirect","channels":[{"name":"live","https://loveznk.github.io/123/live.txt":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L2JjLnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","aHR0cHMlM0EvL2xvdmV6bmsuZ2l0aHViLmlvLzEyMy9saXZlLnR4dA
+":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L2JjLnR4dA=="]}]}],
 
 
 "sites":[
