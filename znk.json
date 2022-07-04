@@ -1,7 +1,7 @@
 ﻿// 配置地址 -->https://loveznk.github.io/123/znk.json
 
 {
-"spider":"https://loveznk.github.io/123/0701apple.jar",
+"spider":"https://od.lk/f/MjZfNDIxNjU4NzZf/0701apple.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9vZC5say9zL01qWmZOREl4TmpVNE5qVmYvbGl2ZS50eHQ="]}]}],
 
 "sites":[
